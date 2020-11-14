@@ -1,0 +1,7 @@
+1.  The citites in the southern hemisphere have less wind speed than  the cities in the northern hemisphere.
+	In addition, there are more cities identified in the northern hemisphere than in the southern.
+2.  Among the southern hemisphere, the lower the latitiude the higher the max temp.  This is of course in contrast
+	with the northern hemisphere that shows the max temp lower as the latitude positioning increases.
+3.  Lastly, when observing the scatter plots between cities with respect to humidity and cloudiness, we see that
+	cloudiness is pretty evenly spread among the cities with varing humidity levels.  However, the greater
+	the humidity, the higher the cloudiness.
